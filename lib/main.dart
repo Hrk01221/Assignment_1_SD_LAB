@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-
+  
+// this is loaded on chrome properly
 void main() {
   runApp(MyApp());
 }
