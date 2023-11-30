@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-//This was made in chrome beacause my pc isnt capable of
+
 void main() {
   runApp(MyApp());
 }
@@ -81,7 +81,7 @@ class BookCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: 150, // Set a fixed height for the Card
+      height: 150, 
       margin: const EdgeInsets.symmetric(vertical: 10.0),
       child: Card(
         child: ListTile(
