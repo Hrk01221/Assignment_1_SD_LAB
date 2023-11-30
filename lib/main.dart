@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+//This was made in chrome beacause my pc isnt capable of
 void main() {
   runApp(MyApp());
 }
