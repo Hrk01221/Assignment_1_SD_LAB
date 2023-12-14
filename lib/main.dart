@@ -74,6 +74,7 @@ class BookCard extends StatelessWidget {
   final String bookName;
   final String authorName;
   final String rating;
+  //dffdd
   final String img;
 
   const BookCard(this.bookName, this.authorName, this.rating, this.img);
